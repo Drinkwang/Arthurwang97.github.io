@@ -19,7 +19,7 @@ tags:
 这是需要删除的代码，可以用浏览器选取工具找到，其实也没几行，一些div元素，纯看代码也看得懂，删完之后代码就变成这样。
 ***
 
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
@@ -38,7 +38,7 @@ tags:
       <div id="gameContainer" style="width: 800px; height: 600px"></div>
      </div>
   </body>
-</html>` 
+</html> 
 
 ***
 这里是代码的粗糙介绍，从这篇代码我们也能看出端疑，从而来学习IL2CPP的技术，当然想要认真学习这块内容，就得了解虚拟机机制，以及mono和clr，这里就不多多复述了。
