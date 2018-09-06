@@ -22,4 +22,5 @@ tags:
 ***
 这里是代码的粗糙介绍，从这篇代码我们也能看出端疑，从而来学习IL2CPP的技术，当然想要认真学习这块内容，就得了解虚拟机机制，以及mono和clr，这里就不多多复述了。
 ***
+show you the best,but project will be wrong
 #附上项目地址：[4399](http://www.4399.com/flash/200403.htm)
