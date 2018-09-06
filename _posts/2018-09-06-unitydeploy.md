@@ -36,8 +36,7 @@ tags:
   <body>
     <div class="webgl-content">
       <div id="gameContainer" style="width: 800px; height: 600px"></div>
-     
-    </div>
+     </div>
   </body>
 </html>` 
 
