@@ -11,11 +11,11 @@ tags:
 ---
 >How do you using unity deploy the WebGL game？o	
 #如何用unity部署webgl，发布game到4399踩的坑如下
-![why_deploy](img/Unityalotchange.png)
+![why_deploy](../img/Unityalotchange.png)
 
 首先我们要修改unity的webgl配置一栏，比如splash img等等a,具体来说要把分辨率改成800-600。
 一些游戏网站对广告zero容忍，那么其次我们需要将一些代码给去掉,这部分就要修改下html的内容了。打开浏览器，按下f12，抓取到要和谐的unity自带广告，把某个div元素给删掉，这样就能屏蔽开头动画或者底部框栏
-![change](img/800-600.png)
+![change](../img/800-600.png)
 >这是需要删除的代码，可以用浏览器选取工具找到，其实也没几行，一些div元素，纯看代码也看得懂，删完之后代码就变成这样。
 
 
