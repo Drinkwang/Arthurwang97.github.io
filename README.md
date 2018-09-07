@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="http://qiubaiying.github.io/img/BY_bolg_logo.png" width="600"本篇博客以qiubaiying的github搭建，感谢他的无私分享，再次把他的教程发出/> </div><br>
+<div align="center"> <img src="http://qiubaiying.github.io/img/BY_bolg_logo.png" width="600"/> </div><br>
 
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
@@ -11,7 +11,7 @@
 [![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
 [![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
 
-
+本篇博客以qiubaiying的github搭建，感谢他的无私分享，以下把他的教程放出
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
  
 更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
