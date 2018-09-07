@@ -1,10 +1,12 @@
 
+
+
+>本篇博客以qiubaiying的github搭建，我希望我的博客将来有一天大有不同，但感谢他的分享，以下把原地址放出，有兴趣去他的github点个start
+：这些内容为我自己修改这个页面踩的坑，待编辑
+
+
+>下面为原博主内容，希望大家有所收获
 <div align="center"> <img src="http://qiubaiying.github.io/img/BY_bolg_logo.png" width="600"/> </div><br>
-
-
-
-
-本篇博客以qiubaiying的github搭建，感谢他的无私分享，以下把他的教程放出
 
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
