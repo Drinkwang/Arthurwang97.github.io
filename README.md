@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="http://qiubaiying.github.io/img/BY_bolg_logo.png" width="600"/> </div><br>
+<div align="center"> <img src="http://qiubaiying.github.io/img/BY_bolg_logo.png" width="600"本篇博客以qiubaiying的github搭建，感谢他的无私分享，再次把他的教程发出/> </div><br>
 
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
