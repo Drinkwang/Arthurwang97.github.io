@@ -1,13 +1,13 @@
 # Site settings
 title: LaoWang Blog
-SEOTitle: 老王的博客 | Lw Blog
+SEOTitle: 俊客的博客 | Lw Blog
 header-img: img/post-bg-desk.jpg
 email: iamprogrammer97@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 老王的博客, qiubaiying, 老王, iOS, Apple, iPhone"
-url: "http://arthurwang97.github.io"          # your host, for absolute URL
+keyword: "俊客, Drink Blog, 俊客的博客, qiubaiying, unity, IEEE, html, ai"
+url: "http://drink.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/arthurwang97/arthurwang97.github.io.git" # you code repository
+github_repo: "https://github.com/Drinkwang/arthurwang97.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    Arthurwang97
+github_username:    Drinkwang
 facebook_username:  baiying.qiu.7
 jianshu_username:   83f7cad592de
 #twitter_username:   
