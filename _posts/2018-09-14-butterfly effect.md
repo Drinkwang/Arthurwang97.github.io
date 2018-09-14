@@ -36,8 +36,16 @@ graph ai;
      某事件10000-15000-->B;
     A相对于更大事件自我调控-->D;
     B相对于更大事件自我调控-->D;
+    
+    
+sequence
+  Alice->Bob: Hello Bob, how are you?
+  Note right of Bob: Bob thinks
+  Bob-->Alice: I am good thanks!
+  
 
 
->## 最后，本文存在一定程度个人yy，各位看官看结合来看，不能保证任何事实道理哈
+
+## 最后，本文存在一定程度个人yy，各位看官看结合来看，不能保证任何事实道理哈
 
 **最后喜欢我的文章，欢迎访问我的博客:[drink的blog](https://drinkwang.github.io/)**
