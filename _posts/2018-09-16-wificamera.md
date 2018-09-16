@@ -12,7 +12,7 @@ author:    BY俊客
 
 header-img: img/pibg.png
 
-catalog: true
+catalog: false
 
 tags:
 
