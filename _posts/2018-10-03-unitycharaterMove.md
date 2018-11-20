@@ -1,5 +1,3 @@
----
-
 layout:    post
 
 title:    论unity踩坑，Character的移动问题
@@ -8,7 +6,7 @@ subtitle:  用数学方法跟踪角色，以及其他
 
 date:      2018-09-16
 
-	author:    BY俊客
+author:    BY俊客
 w do you using unity control camera follow in character move？o
 
 #如何用unity控制摄像跟随角色，在人物移动的时候
@@ -18,6 +16,7 @@ tobe honest ，it is sample question，是的，没错，它很简单，but，�
 first，你需要写一堆控制摄像机的方法，这个主要的作用是啥。
 嗯，其实也还好，它的作用很easy，就是实现保持相机和人物的距离'''
 具体代码：
+```
 using UnityEngine;
 using System.Collections;
 public Transform camera;//制定镜头的坐标
@@ -31,7 +30,7 @@ void Update()
 {camera.position=player.position+offset;
 }
  - [x]
- 
+ ```
 ###这里我们用代码实现了一个让镜头和玩家控制单位保持一定的功能，but，它不能实现角度的控制。也就是说，在某些第三人称视角游戏，镜头是始终保持在单位正前方视角的，这时我们就需要一个角度的控制
 ---
 #But，wait one sconds，这里就不能简简单单控制相机的四元数角度旋转了。如果你只是控制相机的旋转，问题就是你会发现相机比校色旋转的更快。
