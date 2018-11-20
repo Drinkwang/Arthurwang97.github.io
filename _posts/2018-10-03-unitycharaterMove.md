@@ -79,16 +79,5 @@ r*(offset.z*Mathf.Sin(a.y*Mathf.PI/180)+offset.x*Mathf.Cos(a.y*Mathf.PI/180))
 ![将n等于0，镜头在人物头顶.png](https://upload-images.jianshu.io/upload_images/13871785-91cc027745de941d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-	header-img: img/pibg.png
-
-	catalog: false
-
-	tags:
-
-	    -  unity
-
-	---
-
-
 
 
