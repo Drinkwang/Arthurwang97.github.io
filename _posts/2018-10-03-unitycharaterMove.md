@@ -1,13 +1,14 @@
-layout:    post
-
-title:    论unity踩坑，Character的移动问题
-
-subtitle:  用数学方法跟踪角色，以及其他
-
-date:      2018-09-16
-
-author:    BY俊客
-w do you using unity control camera follow in character move？o
+---
+layout:     post
+title:     论unity踩坑，Character的移动问题
+subtitle:   用数学方法跟踪角色，以及其他
+date:       2018-09-06
+author:     BY俊客
+header-img: img/linuxbg.png
+catalog: true
+tags:
+    - unity
+---
 
 #如何用unity控制摄像跟随角色，在人物移动的时候
 
