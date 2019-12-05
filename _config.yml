@@ -27,7 +27,11 @@ bilibli_username:  13061595
 #twitter_username:   
 bilibli_username: drinkalot
 
-
+script:
+- var:
+  - key: src
+    value: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
+    
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
