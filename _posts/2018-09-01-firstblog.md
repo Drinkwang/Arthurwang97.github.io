@@ -19,7 +19,7 @@ tags:
 .div_a{ width:100%; height:100px; text-align:center}
 </style>
 <title>Sample</title></head>
-<body><div class="c">demo</div>
+<body><a href="http://www.4399.com/flash/200403_3.htm">这是我做的一款4399小游戏</a>
 <div class="div_a">
 <iframe  src="http://www.4399.com/flash/200403_3.htm" width="800" height="600" scrolling="yes" border="0" marginwidth="0" style="border:none;" frameborder="1"></iframe>
 </div>
