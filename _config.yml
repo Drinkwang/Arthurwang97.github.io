@@ -70,8 +70,8 @@ gitalk:
   clientID: 833e8dd8922fa27d5d97                            #生成的clientID
   clientSecret: 82d92450b24292cf8404ad89b38433a4626ed5c0   #生成的clientSecret
   repo: blogTalk    #仓库名称
-  owner: arthurwang97    #github用户名
-  admin: arthurwang97
+  owner: Drinkwang    #github用户名
+  admin: Drinkwang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
