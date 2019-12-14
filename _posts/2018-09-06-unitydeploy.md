@@ -9,11 +9,6 @@ catalog: true
 tags:
     - unity
 ---
-![beget.png](https://upload-images.jianshu.io/upload_images/13871785-dad9e5e1060ec40d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![002.png](https://upload-images.jianshu.io/upload_images/13871785-3be163d1434722f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![003.png](https://upload-images.jianshu.io/upload_images/13871785-5dc379ab4db3d8c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 >How do you using unity deploy the WebGL game？o	
 #如何用unity部署webgl，发布game到4399踩的坑如下
 ![简单一些部署设置](https://upload-images.jianshu.io/upload_images/13871785-5c6bb1d7aa5b63da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
