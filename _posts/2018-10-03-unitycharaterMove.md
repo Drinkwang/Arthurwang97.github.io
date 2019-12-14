@@ -10,14 +10,15 @@ tags:
     - unity
 ---
 
+>How do you using unity control camera follow in character move？o
+
 #如何用unity控制摄像跟随角色，在人物移动的时候
 
 tobe honest ，it is sample question，是的，没错，它很简单，but，如果你想用直接把摄像机放到角色面就太lower了，而且如果有朝一日你要自己开发一个游戏引擎？要搞点大新闻呢？所以我们这里要用数学的方法，让这个简单的方法不简约！之后还能对镜头进行扩展，实现very impossible的效果！
-
-first，你需要写一堆控制摄像机的方法，这个主要的作用是啥。
+```
+'''first，你需要写一堆控制摄像机的方法，这个主要的作用是啥。
 嗯，其实也还好，它的作用很easy，就是实现保持相机和人物的距离'''
 具体代码：
-```
 using UnityEngine;
 using System.Collections;
 public Transform camera;//制定镜头的坐标
@@ -77,7 +78,3 @@ r*(offset.z*Mathf.Sin(a.y*Mathf.PI/180)+offset.x*Mathf.Cos(a.y*Mathf.PI/180))
 
 如果能把offset的值乘上一个值n，能实现镜头远近的效果，再用个lerp便能实现镜头过度动画和人物对话拉近镜头的效果了！
 ![将n等于0，镜头在人物头顶.png](https://upload-images.jianshu.io/upload_images/13871785-91cc027745de941d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
