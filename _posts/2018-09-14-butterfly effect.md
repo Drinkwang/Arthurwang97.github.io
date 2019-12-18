@@ -4,7 +4,7 @@ title:     论蝴蝶效应
 subtitle:   人工智能与之关系
 date:       2018-09-14
 author:     BY俊客
-header-img: img/linuxbg.png
+header-img: https://note.youdao.com/yws/api/personal/file/WEBaa0210ed98e5e436e5267db68c73f53c?method=getImage&version=31&cstk=_JpjWQvs
 catalog: true
 tags:
     - ai
