@@ -23,6 +23,7 @@ layout: default
     {% endif %}
 </style>
 <header class="intro-header" >
+	
     <div class="header-mask"></div>
     <div class="container">
         <div class="row">
@@ -80,6 +81,20 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
 
 
                 <!--Gitalk评论start  -->
@@ -186,6 +201,7 @@ layout: default
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
+
 <!-- disqus 公共JS代码 end -->
 {% endif %}
 
