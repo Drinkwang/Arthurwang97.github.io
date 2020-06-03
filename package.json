@@ -1,4 +1,4 @@
-{  
+{
     "name": "by-blog",
     "title": "BY Blog",
     "author": "BY <qiubaiyingios@163.com>",
@@ -17,9 +17,9 @@
         "grunt-contrib-uglify": "~0.5.1"
     },
     "scripts": {
-        "preview": "python -m SimpleHTTPServer 8020 ",
-        "py3view": "python3 -m http.server 8020",
-        "watch"  : "NODE_ENV=development && grunt watch & npm run preview & jekyll serve -w && NODE_ENV=production",
+        "preview": "cd _site; python -m SimpleHTTPServer 8020",
+        "py3view": "cd _site; python3 -m http.server 8020",
+        "watch"  : "grunt watch & npm run preview & jekyll serve -w",
         "py3wa"  : "grunt watch & npm run py3view & jekyll serve -w",
         "boil"   : "git push boilerplate boilerplate:master",
         "push"   : "git push origin master --tag",
